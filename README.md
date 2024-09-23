@@ -23,4 +23,8 @@
 
 ### [Sujeito Programador](https://sujeitoprogramador.com)
 
-- [Dieta IA](https://github.com/pablomaribondo/dieta-ia) - In Progress
+- [Dieta IA](https://github.com/pablomaribondo/dieta-ia)
+
+<kbd>
+  <img src=".github/dieta-ia.png" width="300" />
+</kbd>
